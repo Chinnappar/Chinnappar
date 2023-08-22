@@ -1,7 +1,5 @@
 # <samp> Chinnappar Antony </samp>
 ## 👨‍💻 Staff Data Engineer at Rakuten | ✍Technical Writer
-<a href="https://github.com/Santhoshkumard11?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Santhoshkumard11)
 
 ### Hey Techiee!!!!! 👋
 
